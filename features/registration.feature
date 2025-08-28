@@ -16,5 +16,5 @@ Feature: Registration Feature
 
     Examples:
       | name        | phone      | email                      | country | city   | username | password |
-      | Rahul Arora | 9711111558 | trainer@way2automation.com | India   | Noida  | rahul123 | rahul123 |
-      | Raman Arora | 9711191558 | info@way2automation.com    | Germany | Berlin | raman123 | raman123 |
+      | Abdul | 92338484880 | trainer@way2automation.com | pakistan   | lahore  | rahul123 | rahul123 |
+      | Rehman | 92338484880 | info@way2automation.com    | Germany | Berlin | raman123 | raman123 |
